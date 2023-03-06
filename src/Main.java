@@ -35,6 +35,17 @@ public class Main {
 
         // double type for number with fraction part/percentile
         double trueEleven = 11.0;
+        System.out.println("exercise seven");
+        // creating calculator with double variable
+        // four variables
+        // sum, difference, product, quotient
+
+        double varOne = 1;
+        double varTwo = 2;
+        double varThree = 3;
+        double varFour = 4;
+
+        result =
 
     }
 }
