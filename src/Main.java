@@ -45,7 +45,7 @@ public class Main {
         double varThree = 3;
         double varFour = 4;
 
-        result =
+        result = ;
 
     }
 }
