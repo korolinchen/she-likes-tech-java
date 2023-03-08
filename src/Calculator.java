@@ -5,7 +5,7 @@ public class Calculator {
 
     public static void main(String[] args) {
         System.out.println("Calculator");
-        System.out.println("Calculating sum of two numbers");
+        System.out.println("Calculating sum of two com.sda.she_likes_java.numbers");
         System.out.println("Provide first number: ");
         int firstNumber;
         int secondNumber;

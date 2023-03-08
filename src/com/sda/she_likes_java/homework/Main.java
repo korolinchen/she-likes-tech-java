@@ -4,14 +4,14 @@ package com.sda.she_likes_java.homework;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
-        // literal value just numbers
+        // literal value just com.sda.she_likes_java.numbers
         System.out.println("12345");
         // variable:
         // holder for data
         // needs good name eg. myDaughterage
         //needs type of variable
         //that data type limits possible set of allowed values
-        // int - integer numbers
+        // int - integer com.sda.she_likes_java.numbers
         int myDaugtherAge = 4;
         // assigning new value
         myDaugtherAge = 11;
