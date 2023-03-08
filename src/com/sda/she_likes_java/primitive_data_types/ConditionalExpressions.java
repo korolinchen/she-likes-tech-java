@@ -23,6 +23,8 @@ public class ConditionalExpressions {
 
         if (personAge >= 18) {
             System.out.println("Hello Lady");
+            // if more phrases use curly brackets
+            // pack a sandwich of many lines between curly brackets
         } else {
             System.out.println("It's time to sleep kid");
         }
