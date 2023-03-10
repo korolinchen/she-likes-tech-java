@@ -10,6 +10,7 @@ public class ConditionalExpressions {
         boolean isKid = age < 18;
         System.out.println("is Kid: " + isKid);
 
+        // boolean test - what is it checking
         boolean condition = true;
         if (condition) {
             System.out.println("this will be run only when condition is true");
@@ -25,6 +26,7 @@ public class ConditionalExpressions {
             System.out.println("Hello Lady");
             // if more phrases use curly brackets
             // pack a sandwich of many lines between curly brackets
+            // also you can do refusingMessage instead of text message.
         } else {
             System.out.println("It's time to sleep kid");
         }
