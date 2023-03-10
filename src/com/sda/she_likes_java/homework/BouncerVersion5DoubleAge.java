@@ -13,6 +13,7 @@ public class BouncerVersion5DoubleAge {
         String declineMessage = "Sorry, go home :)";
         int age = inputReader.nextInt();
         System.out.println("Let me know your height");
+        // , and . depending on the region when entering double values as input
         double height = inputReader.nextDouble();
         boolean isAllowedToParty = age >= 18 && height >= 150;
 
